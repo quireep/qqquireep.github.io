@@ -11,7 +11,7 @@ body {
 }
 
 @media (min-width: 992px) {
-  body {font-family: 'Noto Sans TC', sans-serif;
+  body {font-family: 'Noto Serif TC', serif;
   }
   body {
     padding-top: 0;

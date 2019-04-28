@@ -1,0 +1,79 @@
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+
+subheading {
+  font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"}
+
+.bg-primary {
+  background-color: #E5B181 !important;
+}
+ body {
+	font-family: 'Noto Sans TC', sans-serif;color: #E5B181;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Noto Sans TC', sans-serif;
+	text-transform: none;
+}
+
+.subheading {
+	font-family: 'Noto Sans TC', sans-serif;
+	font-size: 1.2rem;
+	text-transform: none;
+	letter-spacing: -0.05rem;
+}
+
+h1 .text-primary {
+	font-size: 4rem;
+	letter-spacing: -0.05rem;
+	line-height: 3rem;
+}
+
+.bg-primary {
+	background-color: #337e8b!important;
+	background-image: url("https://kim125kim125kim.github.io/img/45-degree-fabric-light.png");
+}
+
+.graph_set {
+	margin-top: 3rem;
+}
+
+.text-primary {
+  color: #5885a1 !important;
+}
+a {
+  color: #365d64!important ;
+ }
+ .social-icons a:hover {
+  background-color: #365d64!important;
+}
+
+h2 {
+  font-size: 5rem!important;
+}	
+table {
+    width: 100%;
+    margin-bottom: 1rem;
+    background-color: transparent;
+}
+table td, table th {
+    padding: .75rem;
+    vertical-align: top;
+    border-top: 1px solid #dee2e6;
+}
+ .table-hover a:hover{
+ background-color: #dee2e6!important;
+ }
+ .fixed {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 200px;
+}
+ .dev-icons .list-inline-item  i:hover {
+  color: #365d64!important;
+}
+ 
+

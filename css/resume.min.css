@@ -33,13 +33,13 @@ subheading {
 
 .card-body{
   text-align: center;
-  width:60%
+  width: 120%
 }
 
 .table, th, td {
   border: 4px solid;
   border-collapse: collapse;
-	width:70%
+	width: 120%;
 }
 th, td {
   padding: 5px;

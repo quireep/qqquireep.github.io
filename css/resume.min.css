@@ -33,7 +33,7 @@ subheading {
 
 .card-body{
   text-align: center;
-  width: 120%
+  width: 120%;
 }
 
 .table, th, td {
@@ -43,5 +43,6 @@ subheading {
 }
 th, td {
   padding: 5px;
-  text-align:center;    
+  text-align:center; 
+	width: 120%;
 }

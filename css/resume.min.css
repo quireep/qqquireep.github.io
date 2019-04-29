@@ -23,3 +23,11 @@ subheading {
 .bg-primary {
   background-color: #BF1A1A !important;
 }
+
+.subheading {
+	font-family: 'Noto Sans TC', sans-serif;
+	font-size: 1.2rem;
+	text-transform: none;
+	letter-spacing: -0.05rem;
+}
+

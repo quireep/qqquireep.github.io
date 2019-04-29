@@ -31,3 +31,7 @@ subheading {
 	letter-spacing: -0.05rem;
 }
 
+.card-link{
+  text-align: center;
+  width:60%
+}
